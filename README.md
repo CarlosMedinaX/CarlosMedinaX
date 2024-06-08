@@ -1,4 +1,4 @@
-## Hi Im Carlos, programmer and student, see you later
+## Hi Im Carlos, developer and student, see you later
 
 <!--
 **CarlosMedinaX/CarlosMedinaX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
